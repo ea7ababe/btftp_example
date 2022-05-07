@@ -1,0 +1,7 @@
+data/com.vizio.btftp_example.desktop.in
+data/com.vizio.btftp_example.appdata.xml.in
+data/com.vizio.btftp_example.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+

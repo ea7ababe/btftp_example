@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=btftp_example
+Exec=btftp_example
+Icon=com.vizio.btftp_example
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
